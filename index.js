@@ -9,7 +9,7 @@ const obj = {
 
 }
 
-console.log(obj.email)
+console.log(obj.tw)
 
 //function hola(){
 
