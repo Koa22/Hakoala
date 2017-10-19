@@ -9,7 +9,7 @@ const obj = {
 
 }
 
-console.log(obj.edad)
+console.log(obj.email)
 
 //function hola(){
 
